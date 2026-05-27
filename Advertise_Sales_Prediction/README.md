@@ -3,6 +3,14 @@
 ## Description
 Predicting product sales based on TV, Radio, and Newspaper advertising budgets using Multiple Linear Regression.
 
+## Machine Learning Type
+| Field | Details |
+|-------|---------|
+| **Machine Learning Type** | Supervised Learning |
+| **Problem Type** | Regression |
+| **Algorithm Used** | Multiple Linear Regression |
+| **Performance Metric** | R² Score, RMSE, MSE |
+
 ## Dataset
 - **File** : `Advertising.csv`
 - **Records** : 200
